@@ -25,17 +25,18 @@ Here are some ideas to get you started:
 
 🎓 The spark led me to the journey of pursuing a Master’s in Computer Science. 
 
-
-### 📮 Connect with Me
-- **LinkedIn**: [Jingjing Ji](https://www.linkedin.com/in/jingjing-ji-a0b579184/)
-- **Email**: [jijingjing2023@gmail.com](mailto:jijingjing2023@gmail.com) 
-- **GitHub**: [April1029](https://github.com/April1029)
-
-### 🛠️ Technical Skills:
-- **Languages**: Python, Java, C, JavaScript/TypeScript, SQL, CSS
-- **Frameworks & Tools**: React, Next.js, Django, Git, Bootstrap, JQuery, AWS, GCP, MongoDB, MySQL, Redis, Spring, Express
-- **Design Tools**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe XD, Balsamiq Mockups,
-Figma, MapBox, Lumion, Unity, Unreal Engine, Rhino, AutoCAD, ArcGIS, SketchUp, 3D printing, Laser Cutting
+### 🛠️ A little bit more about me:
+```javascript
+const jingjing = {
+  pronouns: "she" | "her",
+  languages: [“Python”, “Java”, "TypeScript", “C”, “JavaScript”, “SQL”, “HTML”, “CSS”],
+  frameworks, tools: [“Node”, “Express”, “Django”, “React”, "Springboot", “Bootstrap”, "JQuery", "AWS", "GCP",
+                      "MongoDB", "MySQL", “PostgreSQL”, "Redis"],
+  design tools: ["Adobe Photoshop", "Adobe Illustrator", "Adobe InDesign", "Adobe After Effects", "Adobe XD",
+                 "Balsamiq Mockups", "Figma", "MapBox", "Lumion", "Unity", "Unreal Engine", "Rhino", "AutoCAD",
+                 "ArcGIS", "SketchUp", "3D Printing", "Laser Cutting"]
+}
+```
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -72,6 +73,10 @@ Figma, MapBox, Lumion, Unity, Unreal Engine, Rhino, AutoCAD, ArcGIS, SketchUp, 3
 <code><img height="20" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="20" alt="xd" src="https://static.cdnlogo.com/logos/x/47/xd.svg"></code>
 
+### 📮 Connect with Me
+- **LinkedIn**: [Jingjing Ji](https://www.linkedin.com/in/jingjing-ji-a0b579184/)
+- **Email**: [jijingjing2023@gmail.com](mailto:jijingjing2023@gmail.com) 
+- **GitHub**: [April1029](https://github.com/April1029)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=april1029&label=Profile%20views&color=ff69b4&style=flat" alt="april1029" /> </p>
 
